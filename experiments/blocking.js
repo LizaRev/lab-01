@@ -8,7 +8,7 @@ export function createBlockingExperiment() {
       const t = performance.now();
 
       while (performance.now() < t + 100) {
-        
+        // Навмисно порожній цикл для блокування головного потоку.
       }
 
       console.log('Blocking: 100 ms');
