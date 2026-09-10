@@ -73,7 +73,8 @@ HUD показує:
 
 Експеримент проводився у файлі `blocking.js`.
 
-<img width="2878" height="1517" alt="Снимок экрана 2026-09-09 в 14 45 15 — копия 2" src="https://github.com/user-attachments/assets/e70d6c51-f99d-4ebe-88f2-ee168828b29a" />
+<img width="1468" height="747" alt="Снимок экрана 2026-09-10 в 10 00 02" src="https://github.com/user-attachments/assets/4de92300-3a54-499f-9606-c772079abf56" />
+
 
 ### M4.2
 
