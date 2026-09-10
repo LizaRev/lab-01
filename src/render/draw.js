@@ -4,8 +4,19 @@ export function drawScene(ctx, width, height, ship) {
   ctx.fillStyle = '#050816';
   ctx.fillRect(0, 0, width, height);
 
+  drawStars(ctx, width, height);
   drawGrid(ctx, width, height);
   drawShip(ctx, ship);
+}
+
+function drawStars(ctx, width, height) {
+  ctx.fillStyle = 'white';
+
+  for (let x = 30; x < width; x += 100) {
+    for (let y = 30; y < height; y += 100) {
+      ctx.fillRect(x, y, 2, 2);
+    }
+  }
 }
 
 function drawGrid(ctx, width, height) {
