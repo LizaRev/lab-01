@@ -130,7 +130,7 @@ blockingExperiment();
 
 Після завершення експерименту `setInterval` було замінено назад на `requestAnimationFrame`.
 
-<img width="2751" height="1479" alt="Снимок экрана 2026-09-09 в 14 54 12 — копия" src="https://github.com/user-attachments/assets/9344775c-67ff-4d2b-8ec0-b0524bc1a3e9" />
+<img width="2878" height="1517" alt="Дизайн без названия-2" src="https://github.com/user-attachments/assets/090863f0-020c-4669-8c3c-09f5aa3f49ec" />
 
 ### M4.3 - Змінний крок
 
